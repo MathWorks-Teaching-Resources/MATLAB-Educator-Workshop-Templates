@@ -3,7 +3,7 @@ Sample structure for a README.md file. After you build your activity, you can cr
 
 Link your activity to [File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/my-file-exchange/github-app-installation-guide) and add an [Open in MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html) badge.
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/MATLAB-Educator-Workshop-Teaching-Activity-Templates)
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/MATLAB-Educator-Workshop-Templates)
 <!-- Add the "File Exchange" icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 <!-- Add the "Open in MATLAB Online" icon to the README to open a particular file on MATLAB Online --> 
 
